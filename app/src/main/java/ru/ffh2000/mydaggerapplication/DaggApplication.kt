@@ -4,6 +4,6 @@ import android.app.Application
 
 class DaggApplication: Application() {
 
-    val appComponent = DaggerAppComponent.create()
+//    val appComponent = DaggerAppComponent.create()
 
 }
